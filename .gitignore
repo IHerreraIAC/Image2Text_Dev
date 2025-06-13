@@ -1,8 +1,16 @@
 # Directory to ignore
-.venv/
+venv*/
+credentials/
+data/
+output/
+references/
+schemas/
+testimonios/
 Docs/
 Images/
 Weights/
+eg_data/
 
 # File types to ignore
+.env
 *.png
